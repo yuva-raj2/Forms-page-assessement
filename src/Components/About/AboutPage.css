@@ -1,0 +1,11 @@
+.align-center{
+  padding:8rem 2rem;
+}
+.contents{
+  margin-top: 1rem;
+}
+@media screen and (max-width:320px) {
+  .align-center{
+    padding:8rem 1rem;
+  }
+}

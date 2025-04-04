@@ -1,0 +1,22 @@
+.footer-page{
+  position:fixed;
+  top:12rem;
+  background-color:black;
+  color: white;
+  width: 100%;
+}
+.footer-page nav ul{
+  display: flex;
+  list-style-type:none !important;
+}
+.footer-page nav ul li{
+  margin-left:2rem;
+}
+.footer-page ul li a{
+  color: white !important;
+}
+@media screen and (min-width:1024px) {
+  .footer-page{
+    display: none !important;
+  }
+}
