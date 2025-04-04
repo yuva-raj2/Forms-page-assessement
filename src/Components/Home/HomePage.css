@@ -39,7 +39,7 @@
     display: none !important;
   }
 }
-@media screen and (max-width:768px) {
+@media screen and (max-width:767px) {
   .nav-desktop ul li a{
     display:  none !important;
   }
