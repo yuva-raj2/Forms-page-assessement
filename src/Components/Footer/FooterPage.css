@@ -15,7 +15,7 @@
 .footer-page ul li a{
   color: white !important;
 }
-@media screen and (min-width:768px) {
+@media screen and (max-width:768px) {
   .footer-page{
     display: none !important;
   }
